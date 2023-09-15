@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_video_node_puro",
+  "version": "1.0.0",
+  "description": "Curso de programación 3 sin usar framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bifaraa/jotarlo_node_pure.git"
+  },
+  "keywords": [
+    "node",
+    "jotarlo"
+  ],
+  "author": "jhonS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bifaraa/jotarlo_node_pure/issues"
+  },
+  "homepage": "https://github.com/Bifaraa/jotarlo_node_pure#readme"
+}
